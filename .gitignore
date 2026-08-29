@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints
+weights/*.pt
+weights/*.onnx
+weights/*.om
+results/
+*.log
+.vscode/
+.idea/
