@@ -12,3 +12,9 @@ results/
 .idea/
 paper/
 *.pdf
+
+paper/
+*.pdf
+*.aux
+*.log
+*.out
