@@ -10,3 +10,5 @@ results/
 *.log
 .vscode/
 .idea/
+paper/
+*.pdf
